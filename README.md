@@ -1,2 +1,2 @@
 # ds_portfolio
-Study portfolio: practicum_projects
+В этом репозитории собраны проекты, которые я выполнил в рамках обучения в Яндекс.Практикуме по направлению Data Science.
